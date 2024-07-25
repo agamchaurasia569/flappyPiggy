@@ -1,0 +1,8 @@
+body{
+    font-family: "Teko", sans-serif;
+    text-align: center;
+}
+
+#board{
+    background-image: url("./backgroundWorld.png");
+}
